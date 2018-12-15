@@ -25,7 +25,7 @@ This site were built with use benefit of react component
 
 * React.Js - The JS framework used
 * Bootstrap - The CSS framework used
-* Font google
+* Goole font
 * Babel - Helper to transpile and watch changed file JSX into JS
 * http-server - Helper to create localhost
 
