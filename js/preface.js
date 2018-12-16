@@ -54,6 +54,11 @@ class Preface extends React.Component {
                 "p",
                 null,
                 "Yes it is. As the pioneer of IVA (Intelligent Video Analytic) company in Indonesia, you could expect nothing but the challenge itself. Since research is our main focus, you\u2019ll be empowered to create a new value endlessly."
+              ),
+              React.createElement(
+                "a",
+                null,
+                "Browse All Jobs"
               )
             )
           )

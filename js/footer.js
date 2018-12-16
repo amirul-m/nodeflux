@@ -63,7 +63,7 @@ class Footer extends React.Component {
             React.createElement(
               "a",
               { href: "mailto:jobs@nodeflux.io", className: "emailStyle" },
-              "Contact Us"
+              "Contact us"
             )
           ),
           React.createElement(

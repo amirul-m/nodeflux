@@ -34,6 +34,7 @@ class Preface extends React.Component {
               <div className="squarePreface">
                 <h3>Challenging</h3>
                 <p>Yes it is. As the pioneer of IVA (Intelligent Video Analytic) company in Indonesia, you could expect nothing but the challenge itself. Since research is our main focus, you’ll be empowered to create a new value endlessly.</p>
+                <a>Browse All Jobs</a>
                 
               </div>
             </div>

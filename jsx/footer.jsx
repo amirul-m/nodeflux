@@ -21,7 +21,8 @@ class Footer extends React.Component {
               <Intro titleIntro="Don't see what you looking for?"
                 descIntro="Send us an email and tell us how you'd make an impact. We're alwasy looking for talented people to join the team."
               />
-              <a href="mailto:jobs@nodeflux.io" className="emailStyle">Contact Us</a>
+              <a href="mailto:jobs@nodeflux.io" className="emailStyle">Contact us 
+              </a>
             </div>
             <div className="col-md">
               <img src="images/photo1.jpg" width="100%"></img>
